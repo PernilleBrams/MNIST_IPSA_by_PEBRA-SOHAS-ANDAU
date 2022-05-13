@@ -1,7 +1,7 @@
 Markup : ```javascript```
          
 # MNIST NN for IPSA 
-## by: PEBRA-SOHAS-ANDAU
+### By: PEBRA, SOHAS, & ANDAU
 This repo contains all code from the project part IPSA exam at AU by Pernille Brams, Søren Orm and Anna Daugaard. 
 
 The exam consists of building a neural network classifier for the MNIST dataset from scratch without using any built-in machine learning frameworks in Python.
