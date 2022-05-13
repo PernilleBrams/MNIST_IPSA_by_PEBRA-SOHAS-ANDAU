@@ -1,5 +1,3 @@
-Markup : ```javascript```
-         
 # MNIST NN for IPSA 
 ### By: PEBRA, SOHAS, & ANDAU
 This repo contains all code from the project part IPSA exam at AU by Pernille Brams &#129312;, Søren Orm &#128591;, and Anna Daugaard &#128528;. 
