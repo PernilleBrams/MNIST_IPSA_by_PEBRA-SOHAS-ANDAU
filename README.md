@@ -5,7 +5,6 @@ This repo contains all code from the project part IPSA exam at AU by Pernille Br
 The exam consists of building a neural network classifier for the MNIST dataset from scratch without using any built-in machine learning &#129302; frameworks in Python &#128013;.
 
 This repository contains:
-Markup :
 1. A document containing all code for the neural network and visualisations.
 2. A folder containing all visualisations, includeing:
       1. Gifs of the network weights after being exposed 99 images.
