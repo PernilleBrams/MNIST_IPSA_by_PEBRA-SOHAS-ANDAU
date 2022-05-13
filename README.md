@@ -6,8 +6,10 @@ The exam consists of building a neural network classifier for the MNIST dataset 
 
 This repository contains:
 1. A document containing all code for the neural network and visualisations.
+      1. **Users should change the dirpath to their own dirpath.**
 2. A folder containing all visualisations, includeing:
       1. Gifs of the network weights after being exposed 99 images.
       2. A plot of 6000 network accuracies - the accuracies are saved after each batch (the full run is with 5 epochs and batch size 100).
       3. Plots of the weights in the network with the best accuracy - one plot for each digit.
       4. A plot of accuracies and the corresponding costs.
+3. A folder with all relevant data for running the NN.
