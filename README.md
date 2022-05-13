@@ -13,3 +13,5 @@ This repository contains:
       2. Plots of the weights in the network with the best accuracy - one plot for each digit.
       3. A plot of accuracies and the corresponding costs.
 3. A folder with all relevant data for running the NN.
+
+NB: The code is written in Python 3.9.
