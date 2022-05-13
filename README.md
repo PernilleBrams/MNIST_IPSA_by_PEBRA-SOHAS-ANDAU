@@ -1,3 +1,6 @@
+Markup : ```javascript
+         ```
+         
 # MNIST_IPSA_by_PEBRA-SOHAS-ANDAU
 This repo contains all code from the project part IPSA exam at AU by Pernille Brams, Søren Orm and Anna Daugaard. 
 
